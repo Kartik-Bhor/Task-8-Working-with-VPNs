@@ -9,7 +9,7 @@ A reputable free VPN service, such as ProtonVPN, was chosen due to its no-logs p
 The ProtonVPN client was downloaded from the official website and installed on a Windows system. The installation process was straightforward, requiring standard permissions.
 
 3. Connecting to a VPN Server
-Upon launching the VPN client, a list of available servers was presented. A nearby server (India or Singapore, depending on speed) was selected to ensure minimal latency. The connection was established successfully.
+Upon launching the VPN client, a list of available servers was presented. A nearby server (India or Netherlands, depending on speed) was selected to ensure minimal latency. The connection was established successfully.
 
 4. IP Address Verification
 To confirm that the VPN was active, the website whatismyipaddress.com was used before and after the VPN connection. Initially, the IP address showed the user's actual location. After connecting, it reflected the VPN server's location, indicating that the IP address had successfully changed.
