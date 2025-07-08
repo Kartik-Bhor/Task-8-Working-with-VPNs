@@ -27,21 +27,21 @@ ProtonVPN uses AES-256 encryption with OpenVPN and WireGuard protocols—conside
 
 Benefits:
 
-Enhanced Privacy: Hides real IP address and prevents websites from tracking user location.
+- Enhanced Privacy: Hides real IP address and prevents websites from tracking user location.
 
-Secure Communication: Encrypts internet traffic, especially useful on public Wi-Fi.
+- Secure Communication: Encrypts internet traffic, especially useful on public Wi-Fi.
 
-Bypass Censorship: Allows access to content restricted in certain regions.
+- Bypass Censorship: Allows access to content restricted in certain regions.
 
-Anonymity: Reduces digital footprint by masking identity online.
+- Anonymity: Reduces digital footprint by masking identity online.
 
 
 Limitations:
 
-Reduced Speed: Encryption and server distance may slow down internet speeds.
+- Reduced Speed: Encryption and server distance may slow down internet speeds.
 
-Limited Access in Free Plans: Fewer server options and speed throttling in free versions.
+- Limited Access in Free Plans: Fewer server options and speed throttling in free versions.
 
-Trust Dependency: Users must trust the VPN provider to not log or misuse data.
+- Trust Dependency: Users must trust the VPN provider to not log or misuse data.
 
-Blocked Content: Some streaming services block VPN IP ranges, making access difficult.
+- Blocked Content: Some streaming services block VPN IP ranges, making access difficult.
