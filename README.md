@@ -15,7 +15,7 @@ Upon launching the VPN client, a list of available servers was presented. A near
 To confirm that the VPN was active, the website whatismyipaddress.com was used before and after the VPN connection. Initially, the IP address showed the user's actual location. After connecting, it reflected the VPN server's location, indicating that the IP address had successfully changed.
 
 5. Browsing with VPN
-A few secure websites (https://edureka.com, https://bbc.com) were visited to confirm traffic encryption. The browser indicated HTTPS connections, and content loaded normally, suggesting secure and encrypted data transmission via the VPN tunnel.
+A few secure websites (https://edureka.com, https://github.com) were visited to confirm traffic encryption. The browser indicated HTTPS connections, and content loaded normally, suggesting secure and encrypted data transmission via the VPN tunnel.
 
 6. Speed and IP Comparison
 After disconnecting the VPN, the IP address reverted to the original ISP-provided address. A speed test comparison (using speedtest.net) showed that the browsing speed was slightly slower when using the VPN, which is expected due to encryption overhead and routing through an external server.
